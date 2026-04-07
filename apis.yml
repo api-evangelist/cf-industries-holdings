@@ -1,7 +1,11 @@
 aid: cf-industries-holdings
-url: https://raw.githubusercontent.com/api-evangelist/cf-industries-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/cf-industries-holdings/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.cf-industries-holdings.com
+description: >-
+  CF Industries Holdings is a global manufacturer and distributor of nitrogen fertilizers
+  and other nitrogen products serving agricultural and industrial customers worldwide.
