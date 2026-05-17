@@ -90,7 +90,7 @@ common:
     url: https://www.cfindustries.com/sustainability
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/CF_Industries
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.cfindustries.com/privacy-policy
 maintainers:
   - FN: Kin Lane
