@@ -74,6 +74,8 @@ apis:
       global terminal and distribution network across North America, the
       United Kingdom, and export markets.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/cf-industries
   - type: Website
     url: https://www.cfindustries.com/
   - type: About
