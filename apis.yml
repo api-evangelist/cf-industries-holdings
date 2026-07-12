@@ -74,6 +74,8 @@ apis:
       global terminal and distribution network across North America, the
       United Kingdom, and export markets.
 common:
+  - type: DomainSecurity
+    url: security/cf-industries-holdings-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/cf-industries
   - type: Website
