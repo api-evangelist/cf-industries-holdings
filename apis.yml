@@ -16,10 +16,22 @@ tags:
   - Nitrogen
   - Supply Chain
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cf-industries-holdings.png
 access: 3rd-Party
 created: '2026-03-23'
-modified: '2026-04-23'
+modified: '2026-07-25'
 position: Consumer
 specificationVersion: '0.19'
 description: >-
@@ -33,26 +45,6 @@ description: >-
   SEC filings feeds, press/news RSS, and partner EDI/B2B integrations
   with agricultural distributors, rail, terminal, and industrial customers.
 apis:
-  - aid: cf-industries-holdings:cf-investor-relations
-    name: CF Industries Investor Relations Data
-    tags:
-      - EDGAR
-      - Earnings
-      - Financial
-      - Investor
-      - SEC
-    humanURL: https://www.cfindustries.com/investors
-    properties:
-      - url: https://www.cfindustries.com/investors
-        type: Website
-      - url: https://www.cfindustries.com/newsroom/press-releases
-        type: PressReleases
-      - url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001324404
-        type: SECEDGAR
-    description: >-
-      CF Industries publishes financial disclosures, press releases, and
-      investor presentations that are accessible programmatically through
-      SEC EDGAR filings feeds and the corporate newsroom RSS.
   - aid: cf-industries-holdings:cf-edi-b2b
     name: CF Industries EDI / B2B Supply Chain
     tags:

@@ -20,10 +20,6 @@ CF Industries Holdings is a Fortune 500 American manufacturer and distributor of
 
 ## APIs
 
-### CF Industries Investor Relations Data
-Financial disclosures, press releases, and investor presentations accessible programmatically through SEC EDGAR filings feeds and the corporate newsroom RSS.
-
-**Human URL:** [https://www.cfindustries.com/investors](https://www.cfindustries.com/investors)
 
 #### Tags
 - Investor, SEC, EDGAR, Financial, Earnings
