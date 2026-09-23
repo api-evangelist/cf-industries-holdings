@@ -1,7 +1,9 @@
 ---
 title: CF Industries Reports Q1 2026 Earnings $615M $983M ...
 url: https://www.linkedin.com/posts/cf-industries_q1-earningspdf-activity-7460063535046373376-YhDK
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CF Industries Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google
