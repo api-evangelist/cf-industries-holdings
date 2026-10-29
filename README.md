@@ -1,4 +1,4 @@
-# CF Industries Holdings (cf-industries-holdings)
+# CF Industries Holdings
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,61 +64,102 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CF Industries Holdings is a Fortune 500 American manufacturer and distributor of nitrogen-based fertilizers (ammonia, urea, ammonium nitrate, UAN) and clean-energy products serving agricultural and industrial customers worldwide. CF operates one of the largest global ammonia production networks and is scaling clean (blue and green) ammonia for low-carbon energy. CF does not publish a public developer API program; programmatic data access is limited to investor-relations SEC filings feeds, press/news RSS, and partner EDI/B2B integrations.
+CF Industries Holdings is a Fortune 500 American manufacturer and distributor of nitrogen-based fertilizers (ammonia, urea, ammonium nitrate, UAN) and clean-energy products serving agricultural and industrial customers worldwide. CF operates one of the largest global ammonia production networks and is scaling clean (blue and green) ammonia for low-carbon energy. CF does not publish a public developer API program; programmatic data access is limited to investor-relations SEC filings feeds, press/news RSS, and partner EDI/B2B integrations with agricultural distributors, rail, terminal, and industrial customers.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/cf-industries-holdings/refs/heads/main/apis.yml)
+**Areas:** Agriculture · Ammonia · Chemicals · Clean Energy · Fertilizer · Fortune 500 · Hydrogen · Investor Relations · Low-Carbon · Manufacturing · Nitrogen · Supply Chain
 
-## Scope
+## CF Industries Holdings on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for CF Industries Holdings is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cf-industries-holdings/](https://apis.io/providers/cf-industries-holdings/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Fertilizer, Nitrogen, Ammonia, Agriculture, Chemicals, Manufacturing, Hydrogen, Clean Energy, Low-Carbon, Supply Chain, Fortune 500
+- [CF Industries EDI / B2B Supply Chain](https://apis.io/apis/cf-industries-holdings/cf-edi-b2b/) — CF Industries exchanges orders, shipments, and invoices with distributors, rail carriers, and industrial customers through traditional EDI transactions and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-23
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags
-- Investor, SEC, EDGAR, Financial, Earnings
+- [Cf Industries Holdings Domain Security](https://apis.io/security/cf-industries-holdings/cf-industries-holdings-domain-security/)
 
-#### Properties
-- [Website](https://www.cfindustries.com/investors)
-- [PressReleases](https://www.cfindustries.com/newsroom/press-releases)
-- [SECEDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001324404)
+#### Plans and pricing (1)
 
-### CF Industries EDI / B2B Supply Chain
-CF Industries exchanges orders, shipments, and invoices with distributors, rail carriers, and industrial customers through traditional EDI transactions and private B2B integrations.
+Published plans, tiers and prices.
 
-**Human URL:** [https://www.cfindustries.com/what-we-do](https://www.cfindustries.com/what-we-do)
+- [Cf Industries Holdings Plans Pricing](https://apis.io/plans/cf-industries-holdings/cf-industries-holdings-plans-pricing/)
 
-#### Tags
-- EDI, B2B, Supply Chain, Rail
+#### Rate limits (1)
 
-#### Properties
-- [Website](https://www.cfindustries.com/what-we-do)
-- [Products](https://www.cfindustries.com/products)
+Published request limits.
 
-## Common Properties
+- [Cf Industries Holdings Rate Limits](https://apis.io/rate-limits/cf-industries-holdings/cf-industries-holdings-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Cf Industries Holdings Finops](https://apis.io/finops/cf-industries-holdings/cf-industries-holdings-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.cfindustries.com/)
-- [About](https://www.cfindustries.com/about-us)
-- [WhatWeDo](https://www.cfindustries.com/what-we-do)
-- [Products](https://www.cfindustries.com/products)
-- [Investors](https://www.cfindustries.com/investors)
-- [Newsroom](https://www.cfindustries.com/newsroom)
-- [Sustainability](https://www.cfindustries.com/sustainability)
-- [Wikipedia](https://en.wikipedia.org/wiki/CF_Industries)
+- [Privacy policy](https://www.cfindustries.com/privacy-policy)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 8.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 58.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 15.8 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.2** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cf-industries-holdings/](https://apis.io/providers/cf-industries-holdings/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CF Industries Holdings: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cf-industries-holdings/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
